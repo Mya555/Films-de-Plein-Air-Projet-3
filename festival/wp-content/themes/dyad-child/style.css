@@ -1,0 +1,22 @@
+/*
+ Theme Name:   oblique-child
+ Template:   dyad
+ Version:      1.0.0
+ Author:     Bella
+*/
+
+/*import du style css du thème parent */
+@import url("../dyad/style.css"); 
+
+
+
+
+.site-info
+{
+	visibility: hidden;
+} /*mentions légales d'origine cachés*/
+
+.site-info-2
+{
+	visibility: visible;
+} /* Mentions légales du footer ajoutés*/
